@@ -1,5 +1,7 @@
 # Hi there, I'm Arjita! 👋
 
+### 🤝 Connect with me
+
 <p align="center">
   <a href="https://www.linkedin.com/in/arjita-pandey"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:arjitapandey21@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -21,10 +23,6 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArJiTa11-io&show_icons=true&theme=tokyonight&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArJiTa11-io&layout=compact&theme=tokyonight" width="48%" />
-</p>
-
+https://github-readme-stats.vercel.app/api?username=ArJiTa11-io&show_icons=true&theme=tokyonight&count_private=true
 
 
