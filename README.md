@@ -21,8 +21,10 @@
 
 ---
 
-### 📊 GitHub Stats
+### 💭 Quote of the moment
 
-https://github-readme-stats.vercel.app/api?username=ArJiTa11-io&show_icons=true&theme=tokyonight&count_private=true
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
 
 
