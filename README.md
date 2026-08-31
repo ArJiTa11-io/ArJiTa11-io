@@ -118,28 +118,6 @@ Python · Pygame
 
 ---
 
-### 🐍 GitHub Analytics
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArJiTa11-io/ArJiTa11-io/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ArJiTa11-io/ArJiTa11-io/output/github-snake.svg" />
-    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/ArJiTa11-io/ArJiTa11-io/output/github-snake.svg" />
-  </picture>
-</p>
-
----
-
-### 🧭 Ship Next
-
-```
-ship next:
-  01. re-add historical_data.csv to Trader Sentiment Analytics (or link externally — file was too large for GitHub)
-  02. write the WRITEUP.md that Trader Sentiment Analytics' README references but doesn't have yet
-  03. pin repos: Used Car Price Prediction, Trader Sentiment Analytics, Blinkit Power BI Dashboard, Weather Forecast App
-  04. add a validation-set R² number to Used Car Price Prediction (currently only have test R²)
-```
-
 ---
 
 <p align="center">
