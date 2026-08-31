@@ -48,8 +48,6 @@ class Arjita:
         }
 ```
 
-🌱 **Currently learning:** Deep learning basics, and tightening up documentation across older projects
-
 ---
 
 ### 📊 Tech Stack
