@@ -8,29 +8,6 @@
   <img src="https://komarev.com/ghpvc/?username=ArJiTa11-io&label=PROFILE%20VIEWS&color=555555&style=for-the-badge" alt="Profile views" />
 </p>
 
----
-
-```
- ________________________________
-/ o o o carebot bus              /|
-/____AI_HEALTHCARE_SYSTEMS______/ |
-| [flask] [scikit-learn] [nlp] | |
-| symptoms in -> prediction    | |
-| fallback -> live NIH lookup  | /
-|_______________________________|/
-```
-
-# Arjita Pandey
-
-**AI/ML | Data Science | Healthcare AI**
-
-BCA student turning coursework into working ML systems
-
-`$ current_focus --trace`
-CareBot, symptom-checker NLP, cleaner ML pipelines
-
----
-
 ### 🧠 About Me
 
 ```python
