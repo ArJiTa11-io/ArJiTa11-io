@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Arjita%20Pandey&fontSize=55&fontColor=ffffff&desc=AI%2FML%20%7C%20Data%20Science%20%7C%20Healthcare%20AI&descSize=18&descAlignY=65&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d3b2e,100:11998e&height=260&section=header&text=Arjita%20Pandey&fontSize=50&fontColor=ffffff&desc=AI%2FML%20%7C%20Data%20Science%20%7C%20Healthcare%20AI&descSize=18&descAlignY=72&descAlign=50&animation=fadeIn" />
 
 <h3 align="center">BCA (AI/ML) @ IMS Ghaziabad,'27'</h3>
 
