@@ -73,16 +73,6 @@ class Arjita:
   <img src="https://streak-stats.demolab.com/?user=ArJiTa11-io&theme=dark" alt="GitHub streak stats" />
 </p>
 
----
-
-### 📉 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArJiTa11-io&theme=react-dark" alt="GitHub activity graph" />
-</p>
-
----
-
 ### 📂 Flagship Projects
 
 **🩺 CareBot — AI Symptom Checker Chatbot**
