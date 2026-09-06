@@ -1,12 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d3b2e,100:11998e&height=260&section=header&text=Arjita%20Pandey&fontSize=50&fontColor=ffffff&desc=AI%2FML%20%7C%20Data%20Science%20%7C%20Healthcare%20AI&descSize=18&descAlignY=72&descAlign=50&animation=fadeIn" />
-
-<h3 align="center">BCA (AI/ML) @ IMS Ghaziabad,'27'</h3>
-
-<p align="center">
-  <a href="https://linkedin.com/in/www.linkedin.com/in/arjita-pandey"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:arjitapandey21@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=ArJiTa11-io&label=PROFILE%20VIEWS&color=555555&style=for-the-badge" alt="Profile views" />
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d3b2e,100:11998e&height=260&section=header&text=Arjita%20Pandey&fontSize=50&fontColor=ffffff&desc=AI%2FML%20%7C%20Data%20Science%20%7C%20Healthcare%20AI&descSize=18&descAlignY=72&descAlign=50&animation=fadeIn" /> <p align="center"> <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=4AF2C6&center=true&vCenter=true&width=600&lines=BCA+(AI%2FML)+%40+IMS+Ghaziabad;Building+Machine+Learning+Pipelines;Aspiring+Healthcare+AI+Engineer" alt="Typing SVG" /> </p> <p align="center"> <a href="https://linkedin.com/in/www.linkedin.com/in/arjita-pandey"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:arjitapandey21@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <img src="https://komarev.com/ghpvc/?username=ArJiTa11-io&label=PROFILE%20VIEWS&color=555555&style=for-the-badge" alt="Profile views" /> </p>
 
 ### 🧠 About Me
 
