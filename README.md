@@ -82,7 +82,7 @@ Behavioral analysis of Hyperliquid exchange trading data against the Bitcoin Fea
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Compass.png" alt="Compass" width="20" height="20" /> Open Repositories### 📁 Open Repositories
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Compass.png" alt="Compass" width="20" height="20" /> Open Repositories
 
 **🛒 Blinkit Grocery Data Analysis**
 Interactive Power BI dashboard analyzing Blinkit's grocery sales, performance metrics, and consumer insights.
