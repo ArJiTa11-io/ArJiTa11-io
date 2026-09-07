@@ -57,7 +57,11 @@ class Arjita:
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40" />
 </p>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="High Voltage" width="20" height="20" /> GitHub Stats
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="20" height="20" /> GitHub Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=ArJiTa11-io&theme=dark" alt="GitHub streak stats" />
+</p>
 
 ### 📂 Flagship Projects
 
