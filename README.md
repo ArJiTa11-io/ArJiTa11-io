@@ -63,7 +63,7 @@ class Arjita:
   <img src="https://streak-stats.demolab.com/?user=ArJiTa11-io&theme=dark" alt="GitHub streak stats" />
 </p>
 
-### 📂 Flagship Projects
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="20" height="20" /> Flagship Projects
 
 **🩺 CareBot — AI Symptom Checker Chatbot**
 Full-stack Flask web app that predicts likely conditions from natural-language symptom descriptions. Combines a locally trained Decision Tree model (4,920-record, 41-condition dataset) with a live NIH Clinical Tables API fallback for symptoms outside the training data. Supports multi-turn conversation memory, casual-phrasing matching, and urgency flagging.
