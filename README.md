@@ -113,7 +113,17 @@ Python · Pygame
 
 ---
 
+<p align="center">💬 <b>Let's Connect</b></p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/arjita-pandey"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:arjitapandey21@gmail.com"><img src="https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
 <h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Glowing Star" width="20" height="20" /> Terminal Thoughts</h3>
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random dev quote" />
 </p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d3b2e,100:11998e&height=150&section=footer" />
