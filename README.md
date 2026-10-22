@@ -65,6 +65,9 @@ class Arjita:
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="20" height="20" /> Flagship Projects
 
+**📊 Meeting Attendance Tracker**
+Streamlit-based attendance tracking application that uses a Node.js and Playwright-powered Google Meet bot to monitor participant join/leave activity and generate attendance reports. Includes an interactive dashboard, attendee management, meeting history, attendance metrics, and rejoin-session tracking.Python Streamlit Pandas Node.js Playwright JSON [Repo →] (https://github.com/ArJiTa11-io/Meeting-Attendance-Tracker)
+
 **🩺 CareBot — AI Symptom Checker Chatbot**
 Full-stack Flask web app that predicts likely conditions from natural-language symptom descriptions. Combines a locally trained Decision Tree model (4,920-record, 41-condition dataset) with a live NIH Clinical Tables API fallback for symptoms outside the training data. Supports multi-turn conversation memory, casual-phrasing matching, and urgency flagging.
 `Python` `Flask` `Scikit-learn` `Pandas` `JavaScript` `NIH API`
@@ -74,11 +77,6 @@ Full-stack Flask web app that predicts likely conditions from natural-language s
 Random Forest regression model predicting resale prices from vehicle attributes. 95% R² on test data (validation pending).
 `Python` `Scikit-learn` `Pandas`
 [Repo →](https://github.com/ArJiTa11-io/Car-Price-Prediction)
-
-**📈 Trader Sentiment Analytics**
-Behavioral analysis of Hyperliquid exchange trading data against the Bitcoin Fear/Greed Index — built for the Primetrade.ai Round-0 assignment.
-`Python` `Pandas` `Data Analysis`
-[Repo →](https://github.com/ArJiTa11-io/Trader-Sentiment-Analytics)
 
 ---
 
