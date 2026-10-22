@@ -65,8 +65,8 @@ class Arjita:
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="20" height="20" /> Flagship Projects
 
-**📊 Meeting Attendance Tracker**
-Streamlit-based attendance tracking application that uses a Node.js and Playwright-powered Google Meet bot to monitor participant join/leave activity and generate attendance reports. Includes an interactive dashboard, attendee management, meeting history, attendance metrics, and rejoin-session tracking.Python Streamlit Pandas Node.js Playwright JSON [Repo →] (https://github.com/ArJiTa11-io/Meeting-Attendance-Tracker)
+📊 Meeting Attendance Tracker
+Streamlit-based attendance tracking application that uses a Node.js and Playwright-powered Google Meet bot to monitor participant join/leave activity and generate attendance reports. Includes an interactive dashboard, attendee management, meeting history, attendance metrics, and rejoin-session tracking. Python Streamlit Pandas Node.js Playwright JSON Repo →
 
 **🩺 CareBot — AI Symptom Checker Chatbot**
 Full-stack Flask web app that predicts likely conditions from natural-language symptom descriptions. Combines a locally trained Decision Tree model (4,920-record, 41-condition dataset) with a live NIH Clinical Tables API fallback for symptoms outside the training data. Supports multi-turn conversation memory, casual-phrasing matching, and urgency flagging.
